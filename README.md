@@ -45,4 +45,21 @@ Scripts in this category perform various system maintenance tasks, including:
 1. Clone the repository or download the scripts you need.
 2. Open a command prompt with administrator privileges.
 3. Navigate to the directory containing the script you want to run.
-4. Execute the script by typing its name, for example:
+4. Execute the script by typing its name, for example: cleanup_temp_files.bat
+
+
+Note: Always review the contents of a script before running it to ensure it performs the intended actions.
+
+## Contributing
+
+Contributions to BatchScriptAutomation are welcome! If you have a useful batch script that fits into one of the categories, or if you've improved an existing script, please feel free to submit a pull request.
+
+1. Fork the repository
+2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the branch (`git push origin feature/AmazingFeature`)
+5. Open a pull request
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
