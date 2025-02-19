@@ -12,7 +12,7 @@ set "backupDir=C:\BackupDirectory"
 set "source=C:\Users\YourComputersAccountName\Downloads"
 
 :: Number of days to keep old backup files before deleting them
-set "maxFileAgeDays=7"
+:: set "maxFileAgeDays=7"
 
 :: Log file path
 set "logFile=%backupDir%\backup_log.txt"
@@ -74,7 +74,7 @@ rmdir /S /Q "%tempDir%"
 
 :: Delete old backup files that are older than the specified number of days
 echo Removing old backups...
-forfiles /P "%backupDir%" /M *.zip /D -%maxFileAgeDays% /C "cmd /C del @path" 2>nul
+:: forfiles /P "%backupDir%" /M *.zip /D -%maxFileAgeDays% /C "cmd /C del @path" 2>nul
 
 :: Calculate and display backup size
 for %%I in ("%zipFile%") do set "size=%%~zI"
