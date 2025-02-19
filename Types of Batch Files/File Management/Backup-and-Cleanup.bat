@@ -9,10 +9,10 @@ setlocal EnableDelayedExpansion
 set "backupDir=C:\BackupDirectory"
 
 :: Source directory that will be backed up
-set "source=C:\Users\Example\Downloads"
+set "source=C:\Users\Tester\Downloads"
 
 :: Number of days to keep old backup files before deleting them
-set "maxFileAgeDays=0"
+set "maxFileAgeDays=7"
 
 :: Log file path
 set "logFile=%backupDir%\backup_log.txt"
