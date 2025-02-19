@@ -9,7 +9,7 @@ setlocal EnableDelayedExpansion
 set "backupDir=C:\BackupDirectory"
 
 :: Source directory that will be backed up
-set "source=C:\Users\Tester\Downloads"
+set "source=C:\Users\YourComputersAccountName\Downloads"
 
 :: Number of days to keep old backup files before deleting them
 set "maxFileAgeDays=7"
