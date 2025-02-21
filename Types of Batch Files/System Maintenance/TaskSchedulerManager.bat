@@ -2,7 +2,7 @@
 setlocal enabledelayedexpansion
 
 :: Script Configuration
-set "version=4.0"
+set "version=1.0"
 set "logfile=%userprofile%\Documents\TaskSchedulerManager\logs\task_scheduler_manager.log"
 set "backupdir=%userprofile%\Documents\TaskSchedulerManager\backups"
 set "configfile=%userprofile%\Documents\TaskSchedulerManager\config.ini"
