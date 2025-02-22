@@ -59,7 +59,3 @@ Contributions to BatchScriptAutomation are welcome! If you have a useful batch s
 3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a pull request
-
-## License
-
-This project is licensed under the GPL License - see the [LICENSE.md](LICENSE) file for details.
