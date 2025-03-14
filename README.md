@@ -1,6 +1,6 @@
 # BatchScriptAutomation
 
-BatchScriptAutomation is a repository of automated batch scripts (.bat) designed to simplify various system administration tasks. These scripts are categorized into three main areas: File Management, Monitoring and Alerts, and System Maintenance.
+BatchScriptAutomation is a repository of automated batch scripts (.bat) designed to simplify various system administration tasks. All the scripts in this repository were created, tested, and verified by me, ensuring they are 100% safe and reliable for use. These scripts are categorized into three main areas: File Management, Monitoring and Alerts, and System Maintenance.
 
 ## Table of Contents
 
